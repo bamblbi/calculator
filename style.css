@@ -1,0 +1,46 @@
+.conteiner{
+	width: 192.488px;
+	border: 1px solid #000;
+	padding: 10px 10px 10px 10px;
+	position: absolute;
+	background: #e9f1f9;
+}
+.edit_class{
+	border: 1px solid #000;
+	height: 50px;
+	width: 100%;
+	background: #f4fbff;
+}
+.right_position{
+	float:right;
+}
+.figures_class{
+	width: 58%;
+	float: left;
+}
+.figures_class input{
+	background: #f5f6fa;
+}
+.action_class{
+	width: 74px;
+	float: right;
+}
+input{
+	font-size: 1.2rem;
+	padding-left: 10px;
+	padding-right: 10px;
+	width: 2.16rem;
+	margin-top: 5px;
+}
+.null{
+	width: 73px;
+}
+.ravno{
+	float: right;
+}
+.ravno input{
+	height: 60px;
+}
+input {
+	border-radius: 3px;
+}
